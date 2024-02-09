@@ -29,7 +29,7 @@ namespace NuclearReactor
             outputLabel.BackColor = Color.Red;
             outputLabel.ForeColor = Color.White;
             outputLabel.Text = "Meltdown Happening";
-            //this.Text = "RUN AWAY!!!!!!";
+            this.Text = "RUN AWAY!!!!!!";
             //this.BackColor = Color.White;
 
             Refresh();
